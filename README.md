@@ -1,2 +1,4 @@
 # pythonride
-python
+python语法
+
+selenium自动化
