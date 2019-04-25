@@ -44,3 +44,29 @@ print(x,y)
 # 但其实这只是一种假象，Python函数返回的仍然是单一值
 r=move(100,100,60,math.pi / 6)
 print(r)
+
+import math
+math.sqrt(2)
+
+# ??????????????
+# x = 0
+# if b*b- 4*a*c < 0:
+#    x = "无解"
+#
+# if b*b - 4*a*c >= 0:
+#    x = ((-b + math.sqrt(b*b - 4*a*c)) / (2*a),(-b - math.sqrt(b*b - 4*a*c)) / (2*a))
+# return x
+
+# ??????????????
+# def quadratic(a, b, c):
+#     if not isinstance(a, (int, float)):
+#         raise TypeError('bad operand type')
+#     if not isinstance(b, (int, float)):
+#         raise TypeError('bad operand type')
+#     if not isinstance(c, (int, float)):
+#         raise TypeError('bad operand type')
+#     tj = b*2 - 4ac
+#     if tj < 0:
+#         return "无实数根"
+#     else:
+#         return (-b+math.sqrt(tj))/2a, (-b-math.sqrt(tj))/2*a
