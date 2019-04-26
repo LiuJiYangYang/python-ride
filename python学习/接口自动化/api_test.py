@@ -55,3 +55,11 @@ assert newcourse['desc']=='python语言3'
 assert newcourse['display_idx']==2
 
 print('\n=========test case pass =============')
+
+# 电商检查断言，没法验证直接pop掉;不能完整匹配
+# newcourse.pop('id')
+# 检查是否是刚刚添加的课程
+# assert newcourse=={'desc';'python语言3'，
+#               'display_idx':2,
+#               'name':'python'}
+# print('\n====== test case pass ========')

@@ -10,3 +10,42 @@ import requests
 r=requests.get('https://wanandroid.com/article/listproject/0/json')
 print(r.status_code)
 
+import requests
+
+r=requests.get('http://jseckill.appjishu.com/seckill/list')
+print(r.text)
+r=requests.post('http://jseckill.appjishu.com/seckill/execution/1000/19923456783/c2097fe5d7ddf03207e4c3126b3d57b8')
+print(r.text)
+# 请求格式  application/x-www-from-urlencoded
+#  就是单表形式的数据
+
+# para1=value1&para2=value2&para3=value3
+# {
+#     'para1':value1,
+#     'para2':value2,
+#     'para3':value3
+# }
+
+import requests
+payload={
+    'action':'add_course',
+    'data':'''{
+    "name":"初中化学",
+    "desc":"初中化学课程"，
+    "display":"4"
+    }'''
+}
+r=requests.post('http://localhost/api/mgr/sq_mgr',
+                data=payload)
+# print(r.text)             # recode:0
+ret=r.json()
+print(ret)
+
+# assert r.text=='{"recode": 0}'
+assert ret["reason"]==2          # 存在课程的返回值校验
+assert ret["recode"]=='同名课程存在'
+
+# application/json
+# application/xml
+
+
