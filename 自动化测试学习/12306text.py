@@ -11,6 +11,7 @@ driver.get('https://kyfw.12306.cn/otn/leftTicket/init')
 
 # 出发地输入内容，   #   webElement实例对象
 fromEle=driver.find_element_by_id('fromStationText')
+driver.find_element_by_class_name()
 
 # 点击
 fromEle.click()
@@ -19,6 +20,9 @@ fromEle.clear()
 
 fromEle.send_keys('南京南')
 
+selctOneEle = driver.find_element_by_xpath('//*[@id="citem_0"]')
+# selctOneEles = driver.find_elements_by_xpath('//*[@id="citem_0"]')
+selctOneEle.click()
 
 # #    問題下拉框選擇ID
 #

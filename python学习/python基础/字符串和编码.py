@@ -84,3 +84,5 @@ print('72.{0:.1f}%'.format(100*(85-72)/72))
 # 当str和bytes互相转换时，需要指定编码。最常用的编码是UTF-8。Python当然也支持其他编码方式，比如把Unicode编码成GB2312
 print('中文'.encode('gb2312'))
 # 牢记仅使用UTF-8编码
+
+

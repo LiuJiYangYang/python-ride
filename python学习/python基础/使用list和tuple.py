@@ -10,7 +10,7 @@ print(classmates[2])
 # 如果要取最后一个元素，除了计算索引位置外，还可以用-1做索引，直接获取最后一个元素
 print(classmates[-1])
 print(classmates[-3])
-# list是一个可变的有序表，所以，可以往list中追加元素到末尾
+# list是一个可变的有序表，可以往list中追加元素到末尾
 classmates.append('Adam')
 print(classmates)
 # insert 也可以把元素插入到指定的位置，比如索引号为1的位置
@@ -61,6 +61,7 @@ t=('a', 'b', ['A', 'B'])
 t[2][0] = 'X'
 t[2][1] = 'Y'
 print(t)
+# tuple指向永远不变
 
 L = [
     ['Apple', 'Google', 'Microsoft'],
@@ -71,3 +72,6 @@ print(L[0][0])     # 打印Apple
 print(L[1][1])     # 打印Python
 print(L[2][2])     # 打印Lisa
 
+b=(1)
+b=12
+print(b)

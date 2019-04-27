@@ -37,7 +37,8 @@ print(d)
 # 哈希算法（Hash,这是因为dict根据key来计算value的存储位置，如果每次计算相同的key得出的结果不同，那dict内部就完全混乱了。这个通过key计算位置的算法
 # 要保证hash的正确性，作为key的对象就不能变。在Python中，字符串、整数等都是不可变的，因此，可以放心地作为key。
 key=[1,2,3]
-d[key] = 'a list'       # 而list是可变的，就不能作为key
+d[key] = 'a list'   # 而list是可变的，就不能作为key
+
 # set和dict类似，也是一组key的集合，但不存储value。由于key不能重复，所以，在set中，没有重复的key
 # 要创建一个set，需要提供一个list作为输入集合
 s=set([1,2,3])
@@ -107,3 +108,13 @@ d={'a':n,'b':m,'c':v}
 print(d)
 
 print(dict([(i, ['a','a','b','a','b','c'].count(i)) for i in set(['a','a','b','a','b','c'])]))
+
+
+l = ['a','a','b','a','b','c','e','for','for','for','for','for']
+s = set(l)        #  set去重
+d = dict.fromkeys(s,0)    # 称为map语言，使用键值对（key-value）
+for x in s :
+    d[x] = l.count(x)
+print(s)
+print(d)
+print(d[x])

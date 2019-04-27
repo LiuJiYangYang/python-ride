@@ -76,4 +76,4 @@ while n<10:
     print(n)          #  计算相等于用==
 
 
-
+L.pop('Bob')
