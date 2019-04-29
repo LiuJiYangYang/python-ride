@@ -1,0 +1,278 @@
+1556519310976	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\11839\\AppData\\Local\\Temp\\rust_mozprofile.4r3IcfLpA7Z0"
+1556519312621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556519312621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556519312621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556519316559	Marionette	INFO	Listening on port 13011
+1556519316803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+[Child 12760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/bui[Child 15200, Chrlodme_Chil/dbThread] WARNING:u iplidp/es rerror: 109: ficl/ei pzc/chromium/src/chrome/co:m/mbon/ipc_channeul_ild/build/src/ipc/chwriominu.mc/cs, line r3c/chrome/common/ipc_channel3_2w
+in.cc, line 332
+[Child[ 127C6hild 015200, Ch, Cro1556519440465	Marionette	INFO	Stopped listening on port 13011
+[GPU 20
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+creenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556519420651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556519425333	Marionette	INFO	Listening on port 13151
+1556519425725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: http://www.maiziedu.com/pages/adpc/python/cp-js/jquery-1.7.2.min.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: http://dn-growing.qbox.me/vds.js, line 2: TypeError: document.location is null
+[Parent 20396, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 14704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+[Child 7096, Chrome_ChildThread] WARNING: pipe error: 10
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+9: file z:/build/build/src/ip
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+c/chromium/src/chrome/common/1556519460198	Marionette	INFO	Stopped listening on port 13151
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556519508918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\11839\\AppData\\Local\\Temp\\rust_mozprofile.yTPTbEnj1bKB"
+1556519510087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556519510088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556519510088	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556519513621	Marionette	INFO	Listening on port 13285
+1556519513867	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+[Parent 3600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Parent 3600, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10976, Chrome_ChildThread] WARNING: pipe error: 101556519592396	Marionette	INFO	Stopped listening on port 13285
+[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+GPU 9816, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556519600565	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\11839\\AppData\\Local\\Temp\\rust_mozprofile.4fWFMETILdnq"
+1556519601651	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556519601652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556519601652	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556519605205	Marionette	INFO	Listening on port 13422
+1556519605515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 9008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 9008, Chrome_ChildThread] WARN1556519768395	Marionette	INFO	Stopped listening on port 13422
+[
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+GPU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556519978089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\11839\\AppData\\Local\\Temp\\rust_mozprofile.Pm5uyXPBjTzw"
+1556519979510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556519979510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556519979510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556519983591	Marionette	INFO	Listening on port 13782
+1556519983632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+[Child 13116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[1556520027094	Marionette	INFO	Stopped listening on port 13782
+[G
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+PU 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556520074026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\11839\\AppData\\Local\\Temp\\rust_mozprofile.eWarfZUVjqUp"
+1556520075168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556520075168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556520075168	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556520078658	Marionette	INFO	Listening on port 13913
+1556520078969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+console.error: "stylesheets actor: fetch failed for http://www.maiziedu.com/css/bootstrap.min.css?v=201703281700, using system principal instead."
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/server/actors/inspector/node.js:70:5
+parent@resource://devtools/shared/protocol.js:832:5
+destroy@resource://devtools/shared/protocol.js:935:20
+destroy@resource://devtools/shared/protocol.js:1033:5
+destroy@resource://devtools/server/actors/inspector/node.js:79:5
+destroy@resource://devtools/shared/protocol.js:952:9
+destroy@resource://devtools/shared/protocol.js:1033:5
+destroy@resource://devtools/server/actors/styles.js:94:5
+destroy@resource://devtools/shared/protocol.js:952:9
+destroy@resource://devtools/shared/protocol.js:1033:5
+destroy@resource://devtools/server/actors/inspector/inspector.js:87:5
+destroy@resource://devtools/shared/protocol.js:952:9
+_detach@resource://devtools/server/actors/targets/browsing-context.js:882:7
+exit@resource://devtools/server/actors/targets/browsing-context.js:513:5
+frameTargetPrototype.exit@resource://devtools/server/actors/targets/frame.js:80:3
+destroy@resource://devtools/server/actors/targets/browsing-context.js:494:5
+removeActor@resource://devtools/server/actors/common.js:67:7
+APDestroy@resource://devtools/server/actors/common.js:29:7
+onClosed/<@resource://devtools/server/main.js:1385:35
+onClosed@resource://devtools/server/main.js:1385:5
+close@resource://devtools/shared/transport/child-transport.js:62:5
+close@resource://devtools/server/main.js:1013:7
+onDisconnect<@resource://devtools/server/startup/frame.js:111:7
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 70, column: 5
+console.error: "Handler function threw an exception: TypeError: this.walker is null\nStack: get conn@resource://devtools/server/actors/inspector/node.js:70:5\nparent@resource://devtools/shared/protocol.js:832:5\ndestroy@resource://devtools/shared/protocol.js:935:20\ndestroy@resource://devtools/shared/protocol.js:1033:5\ndestroy@resource://devtools/server/actors/inspector/node.js:79:5\ndestroy@resource://devtools/shared/protocol.js:952:9\ndestroy@resource://devtools/shared/protocol.js:1033:5\ndestroy@resource://devtools/server/actors/styles.js:94:5\ndestroy@resource://devtools/shared/protocol.js:952:9\ndestroy@resource://devtools/shared/protocol.js:1033:5\ndestroy@resource://devtools/server/actors/inspector/inspector.js:87:5\ndestroy@resource://devtools/shared/protocol.js:952:9\n_detach@resource://devtools/server/actors/targets/browsing-context.js:882:7\nexit@resource://devtools/server/actors/targets/browsing-context.js:513:5\nframeTargetPrototype.exit@resource://devtools/server/actors/targets/frame.js:80:3\ndestroy@resource://devtools/server/actors/targets/browsing-context.js:494:5\nremoveActor@resource://devtools/server/actors/common.js:67:7\nAPDestroy@resource://devtools/server/actors/common.js:29:7\nonClosed/<@resource://devtools/server/main.js:1385:35\nonClosed@resource://devtools/server/main.js:1385:5\nclose@resource://devtools/shared/transport/child-transport.js:62:5\nclose@resource://devtools/server/main.js:1013:7\nonDisconnect<@resource://devtools/server/startup/frame.js:111:7\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14\nLine: 70, column: 5"
+[Child 20308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 20308, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chro[Parent 14636, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556520744595	Marionette	INFO	Stopped listening on port 13913
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556520750850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\11839\\AppData\\Local\\Temp\\rust_mozprofile.700OhetyLSpv"
+1556520751960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556520751960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556520751961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556520755802	Marionette	INFO	Listening on port 14234
+1556520756303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1556520757024	Marionette	INFO	Stopped listening on port 14234
+[GPU 119
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+4
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1556520764661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\11839\\AppData\\Local\\Temp\\rust_mozprofile.0641WmFdmGSj"
+1556520765844	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556520765845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556520765845	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556520769569	Marionette	INFO	Listening on port 14274
+1556520769614	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+1556520879114	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\11839\\AppData\\Local\\Temp\\rust_mozprofile.rLmrLB8bCId9"
+1556520880222	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1556520880223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1556520880223	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556520883764	Marionette	INFO	Listening on port 14536
+1556520884046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: , line 0: NotSupportedError: The media resource indicated by the src attribute or assigned media provider object was not suitable.
+JavaScript error: http://www.maiziedu.com/2016/src/index.js?v=201703281700, line 3: TypeError: $(...).slide is not a function
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 61: TypeError: this.mm.content is null
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:190:13
+
+[Child 17844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 17844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+1556523060843	Marionette	INFO	Stopped listening on port 14536
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ion: resource://pdf.js/
+1556523044304	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1556523049977	Marionette	INFO	Listening on port 15073
+1556523050180	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5748, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+[Child 10516, Chro1556523071647	Marionette	INFO	Stopped listening on port 15073
+[GPU 9
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
