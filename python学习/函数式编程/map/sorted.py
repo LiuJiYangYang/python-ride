@@ -30,9 +30,22 @@ print(sorted([('Bob', 75), ('Adam', 92), ('Bart', 66), ('Lisa', 88)],key=num, re
 
 
 
+L=[('Bob',75),('Adam',92),('Bart',66),('Lisa',88)]
 
+def fn1(x):
+    return x[0]
 
+def fn2(x):
+    return x[1]
 
+print(sorted(L,key=fn1))
+print(sorted(L,key=fn2))
+
+def by_name(t):
+    return sorted(t,key=lambda x:x[0])
+
+def by_name(t):
+    return sorted(t,key=lambda x:x[1],reverse=True)
 
 
 
