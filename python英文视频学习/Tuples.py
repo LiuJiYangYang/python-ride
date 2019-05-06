@@ -12,6 +12,8 @@ print(coordinates)
 # tuples中的lists可变
 coordinates=(1,3,[3,4,5])
 coordinates[2][0]=7
+
+# coordinates[2]=[]      #  object does not support item assignment
 print(coordinates)
 
 
