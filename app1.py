@@ -10,5 +10,6 @@ print(Student1.name)
 print(Student1.gpa)
 
 print(Student2.gpa)
+print()
 
 
